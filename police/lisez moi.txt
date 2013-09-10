@@ -1,0 +1,2 @@
+Le dossier "Polices" contient les polices utilisées pour le kit graphique. Elles servent à modifier le titre de votre logo
+ou d'autres images dans le kit graphique. Placez les dans C:\Windows\Fonts.

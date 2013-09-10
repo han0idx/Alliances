@@ -1,0 +1,226 @@
+/*Ce kit a été crée par Zigomar 
+pour toyou.fr et kitgraphique.net
+contactez moi : sav_toyou@live.fr*/
+body
+{   
+	font-family: "calibri";
+	background: url(images/fond.png) repeat-x;
+	background-color: #ffffff;
+	margin-top:10px;
+}
+
+#container
+{
+	width:1000px;
+	margin:0 auto;
+}
+
+#logo
+{
+	background: url(images/logo.png) no-repeat;
+	width:152px;
+	height:162px;
+	float:left;
+}
+
+#header
+{
+	color:#d52c2b;
+	float:right;
+	font-weight:bold;
+	margin-top: 162px;
+	margin-right:6px;
+	font-size:14px;
+}
+
+#menu
+{
+	background: url(images/menu.png) no-repeat;
+	width:1000px;
+	height:32px;
+	float:left;
+	padding-top:5px;
+}
+
+#menu a
+{
+	color:#000000;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:14px;
+	padding-left:13px;
+	padding-right:13px;
+}
+
+#menu a:hover
+{
+	background: url("images/hover.png") bottom center no-repeat;
+	padding-bottom:8px;
+	color:#d52c2b;
+}
+
+#gauche
+{
+	width:600px;
+	height:400px;
+	float:left;
+	background: url(images/dating.png) no-repeat;
+}
+
+#droite
+{
+	width:400px;
+	height:400px;
+	float:left;
+	background-color: #d1d2ce;
+}
+
+#droite h1
+{	
+	color:#d52c2b;
+	font-weight:bold;
+	font-size:25px;
+	text-align:center;
+}
+
+#droite p
+{	
+	float:right;
+	padding-right:30px;
+	font-weight:bold;
+	margin-bottom:0px;
+}
+
+#submit
+{
+	padding-left:130px;
+}
+
+#bas_1
+{
+	width:250px;
+	height:150px;
+	float:left;
+	background: url(images/bas_1.png) no-repeat;
+}
+
+#bas_2
+{
+	width:250px;
+	height:150px;
+	float:left;
+	background: url(images/bas_2.png) no-repeat;
+}
+
+#bas_3
+{
+	width:250px;
+	height:150px;
+	float:left;
+	background: url(images/bas_3.png) no-repeat;
+}
+
+#bas_4
+{
+	width:250px;
+	height:150px;
+	float:left;
+	background: url(images/bas_4.png) no-repeat;
+}
+
+#bas h1
+{
+	padding-left:15px;
+	font-size: 22px;
+	color:#8c8f91;
+}
+
+#bas p
+{
+	padding-left:15px;
+	color:#d52c2b;
+	font-weight:bold;
+	font-size:14px;
+}
+
+#partenaire
+{
+	margin-top:10px;
+	text-align:center
+}
+
+#partenaire a
+{
+	color:#8c8f91;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#partenaire a:hover
+{
+	color:#dddcdc;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#footer
+{
+	color:#8c8f91;
+	margin-top:10px;
+	text-align:center
+}
+
+#footer a
+{
+	color:#8c8f91;
+	margin-top:10px;
+	text-align:center
+}
+
+#footer a:hover
+{
+	text-decoration:none;
+}
+
+#clear
+{
+	clear:both;
+}
+
+select
+{
+	background:#f2f1f1;
+	border: 1px solid #d52c2b;
+	color:#000000;
+	font-size: 12px;
+	width:150px;
+}
+
+input[type='text']
+{
+	background:#f2f1f1;
+	border: 1px solid #d52c2b;
+	color:#000000;
+	font-size: 12px;
+	width:150px;
+}
+
+input[type='password']
+{
+	background:#f2f1f1;
+	border: 1px solid #d52c2b;
+	color:#000000;
+	font-size: 12px;
+	width:150px;
+}
+
+input[type='submit']
+{
+	background: url(images/submit.png) no-repeat;
+	border: 0px solid #d52c2b;
+	color:#000000;
+	font-size: 13px;
+	width:150px;
+	height:30px;
+	font-weight:bold;
+}

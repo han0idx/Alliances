@@ -1,0 +1,85 @@
+/-------------------------------------------/
+Kit graphique "love kit" By Zigomar
+http://toyou.fr
+/------------------------------------------/
+Kit telechargé sur kitgraphique.net
+/------------------------------------------/
+
+- Description :
+
+love kit est un kit tirant sur les couleurs rouge, gris.
+Le kit vous est fourni avec :
+*Un dossier image contenant toutes les images necessaire au bon fonctionnement du kit
+*un fichier html contenant la page d'accueil du kit
+*une feuille de style css
+*la police ayant servi à la creation du logo
+*le psd du logo
+*le psd du titre
+*des fichiers explicatifs
+
+Le kit est aussi aux normes W3C XHTML 1.0 STRICT et CSS 2.
+
+Le kit est compatible Internet Explorer et Firefox, Opera ainsi que toutes résolutions d'écrans.
+Le kit est aussi aux normes W3C XHTML 1.0 STRICT et CSS 2.
+
+
+- Installation :
+
+Dézipper le kit graphique dans un dossier et uploadez le contenu du dossier "html" à la racine de votre site ou où vous 
+voullez que votre site apparaisse.
+
+- Personnalisation :
+
+Pour commencer à ecrire dans le kit graphique, rajouter des liens, des photos vous devez l'ouvrir avec un éditeur html.
+Voici une liste de nombreux editeurs html :
+- Dreamweaver MX 2004
+- NVU
+- Frontpage
+
+Il en existe beaucoup d'autres mais nous vous conseillons Dreamweaver ou NVU.
+
+------------------------------------------------------------------------------------------------------
+
+
+NOTES IMPORTANTES :
+
+1) Les polices :
+
+- Le dossier "Polices" contient les polices utilisées pour le kit graphique. Elles servent à modifier le titre de votre logo
+  ou d'autres images dans le kit graphique. Placez les dans C:\Windows\Fonts.
+
+2) Les images modifiables :
+
+- Le dossier "psd" contient les images que vous pouvez modifier à l'aide de Adobe Photoshop.
+- Les fichiers sont au format ".psd".
+
+3) Le kit graphique
+
+- Le dossier "html" comprend le site en lui-même.
+- Vous devrez uploader TOUS les fichiers du dossier sur votre serveur ftp.
+- Le fichier "styles.css" contient les couleurs de votre kit, les couleurs des liens, les styles des polices.
+- Le sous-dossier "images" situé dans le dossier "images" contient toutes les images du kit graphique.
+
+******************************************
+************** LE COPYRIGHT **************
+******************************************
+
+Le copyright mentionnant mon pseudo : Zigomar ainsi que la mention Toyou.fr est INDISPENSABLE.
+Le copyright doit figurer sur votre site et ne peut être enlevé.
+Par contre une partie du copyright est réservée pour votre site et peut être changée sans problème.
+
+4) Le support 
+
+- Vous avez un problème avec ce kit ?
+- Il vous manque des images ?
+- Vous comprenez mal l'installation du kit ?
+
+
+Rendez-vous sur kitgraphique.net dans la partie "FAQ" du site. Si vous ne trouvez toujours pas de réponses vous pouvez
+nous contacter via la rubrique "Forum" du site ou alors via la rubrique "Contact".
+
+
+Cordialement l'équipe kitgraphique.net
+
+Vous pouvez aussi me contacter par mail à cette adresse : sav_toyou@live.fr
+

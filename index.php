@@ -4,28 +4,14 @@
 
 		<?php include 'Style/menu.php'; ?>
 		
-		<div id="gauche"></div>
+		<div>
+			<div id="gauche"></div>
 		
-		<div id="droite">
-		<h1>Inscription gratuite !</h1>
-		<p>Je suis&nbsp;&nbsp;&nbsp;
-		<select name="je_suis">
-			<option value="Homme">Un Homme</option>
-			<option value="Femme">Une Femme</option>
-		</select>
-		</p>
-				
-		
-		<p>Pseudonyme&nbsp;&nbsp;&nbsp;<input type="text" name="pseudo" /></p>
-		<p>Mot de passe&nbsp;&nbsp;&nbsp;<input type="password" name="passe" /></p>
-		<p>Adresse email&nbsp;&nbsp;&nbsp;<input type="text" name="email" /></p>
-		<br /><br />
-		<br /><br />
-		<br /><br />
-		<br /><br />
-		<div id="submit">
-		<input type="submit" name="submit" value="Continuer" />
+			<div id="droite">
+			<h2> Grâce à son réseau d'agences matrimoniales, Alliances vous permet de vous mettre en contact avec la femme russe de vos rêves. <br />
+			N'hésitez plus, l'inscription est gratuite</h2>
 		</div>
-		</div>
+
+
 		
 		<?php include 'Style/footer.php'; ?>

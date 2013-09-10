@@ -59,6 +59,13 @@ body
 	color:#d52c2b;
 }
 
+#centre 
+{
+	width:1000px;
+	height:400px;
+	float:left;
+	background-color: #d1d2ce;
+}
 #gauche
 {
 	width:600px;

@@ -7,7 +7,7 @@ require_once(dirname(__FILE__) . '/inc/DAL.class.php');
 define ( 'DB_HOST', 'localhost' );
 define ( 'DB_USER', 'root' );
 define ( 'DB_PASSWORD', '' );
-define ( 'DB_DB', 'tut' );
+define ( 'DB_DB', 'agence' );
 
 //Define paths
 

@@ -29,6 +29,11 @@ class DAL {
     return $this->query($sql);
   }
   
+  public function get_all_russians_girls(){
+    $sql = "SELECT * FROM russes";
+    return $this->query($sql);
+  }
+  
   private function dbconnect() {
     $conn = mysql_connect(DB_HOST, DB_USER, DB_PASSWORD)
     	or die ("<br/>Could not connect to MySQL server");

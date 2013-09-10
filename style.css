@@ -1,4 +1,4 @@
-/*Ce kit a été crée par Zigomar 
+/*Ce kit a ï¿½tï¿½ crï¿½e par Zigomar 
 pour toyou.fr et kitgraphique.net
 contactez moi : sav_toyou@live.fr*/
 body
@@ -62,7 +62,7 @@ body
 #centre 
 {
 	width:1000px;
-	height:400px;
+	min-height:400px;
 	float:left;
 	background-color: #d1d2ce;
 }
@@ -230,4 +230,44 @@ input[type='submit']
 	width:150px;
 	height:30px;
 	font-weight:bold;
+}
+
+/* Page liste russes */
+
+.tableFilles{
+    width: 611px;
+    margin-left: 4%;
+    margin-bottom: 16px;
+    word-wrap: break-word;
+}
+
+.tableFilles td{
+word-wrap: break-word;
+}
+
+.nom, .prenom, .ville {
+    font-size: 32px;
+}
+.nom {
+    color: white;
+}
+.prenom {
+    color: blue;
+}
+.ville {
+    color: red;
+}
+
+.photo img{
+    height:160px
+}
+
+/*EXTRAS*/
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
 }
